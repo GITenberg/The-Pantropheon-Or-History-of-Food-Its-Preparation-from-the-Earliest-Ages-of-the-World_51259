@@ -1,5 +1,8 @@
 _repo: The-Pantropheon-Or-History-of-Food-Its-Preparation-from-the-Earliest-Ages-of-the-World_51259
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51259-h/images/cover.jpg
 creator:
   author:
     agent_name: Soyer, Alexis
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41417
     wikipedia: http://en.wikipedia.org/wiki/Alexis_Soyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51259#The-Pantropheon-Or-History-of-Food-Its-Preparation-from-the-Earliest-Ages-of-the-World
 gutenberg_issued: '2016-02-21'
 gutenberg_type: Text
 identifiers:
